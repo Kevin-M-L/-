@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [工业智能可视化](README.md)
