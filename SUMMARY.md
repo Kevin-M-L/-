@@ -1,7 +1,6 @@
 # Table of contents
 
 * [工业智能可视化](README.md)
-
-## 前言
-
-* [工业智能可视化](qian-yan/gong-ye-zhi-neng-ke-shi-hua.md)
+* [Page](page.md)
+* [Page 1](page-1.md)
+* [Page 2](page-2.md)
