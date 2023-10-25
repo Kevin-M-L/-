@@ -1,7 +1,4 @@
-# 工业智能可视化
+# 前言
 
-<figure><img src="[.gitbook/assets/logo.png](https:/files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces/aQa7V4364jIXIYyX4ABr/uploads/8pisbEUsgSLsbcyKbIQ5/logo.png" alt="" width="188"><figcaption></figcaption></figure>
+目前世界大多数国家都在积极实现工业4.0愿景，旨在通过网络互通信息，通过计算机、人工智能的应用，使得生产、流通等各个环节都实现最高程度的自动化，从而实现高效智能管理。本书是工业智能可视化实践书籍，主要技术包含工业智能应用、BI工具、3D建模、大数据、数仓等关键技术。
 
-<figure><img src=".gitbook/assets/logo (1).png" alt="" width="188"><figcaption></figcaption></figure>
-
-## 1、111
