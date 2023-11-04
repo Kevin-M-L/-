@@ -1,8 +1,6 @@
 # Table of contents
 
 * [前言](README.md)
-* [Page](page/README.md)
-  * [Page 1](page/page-1/README.md)
-    * [Page 3](page/page-1/page-3.md)
-    * [Page 2](page/page-1/page-2.md)
-  * [Page 4](page/page-4.md)
+* [1、Blender 3D技术介绍](1blender-3d-ji-shu-jie-shao/README.md)
+  * [1.1 Blender快捷键使用介绍](1blender-3d-ji-shu-jie-shao/1.1-blender-kuai-jie-jian-shi-yong-jie-shao.md)
+  * [Page 4](1blender-3d-ji-shu-jie-shao/page-4.md)
